@@ -1,0 +1,11 @@
+{
+  "name": "quote0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quote.js",
+  "scripts": {
+    "start": "node quote.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
